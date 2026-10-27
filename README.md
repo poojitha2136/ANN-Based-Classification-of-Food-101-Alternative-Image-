@@ -1,0 +1,1 @@
+# ANN-Based-Classification-of-Food-101-Alternative-Image-
