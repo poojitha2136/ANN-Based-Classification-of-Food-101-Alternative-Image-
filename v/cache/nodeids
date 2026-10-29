@@ -1,0 +1,9 @@
+[
+  "backend/tests/test_api.py::test_dashboard_stats",
+  "backend/tests/test_api.py::test_dataset_info_and_classes",
+  "backend/tests/test_api.py::test_dataset_samples",
+  "backend/tests/test_api.py::test_health_endpoint",
+  "backend/tests/test_api.py::test_model_info_and_evaluation",
+  "backend/tests/test_api.py::test_predict_valid_and_invalid_image",
+  "backend/tests/test_api.py::test_training_validation"
+]
